@@ -14,13 +14,13 @@ def third_challenge
    }, 
    :capulet => {
       :patriarch => {
-        #your key/value pairs here
+        name: "Lord Capulet", age: "53"
         },
       :matriarch => {
-        name: "Lady Montague", age: "54"
+        name: "Lady Capulet", age: "51"
         },
       :heroine => {
-        #your key/value pairs here
+        name: "Romeo", age: "15", status: "alive"
         },
       :heroine_friends => []
    }
